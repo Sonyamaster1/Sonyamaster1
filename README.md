@@ -12,8 +12,8 @@
 #### :link: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) JavaScript
 
 # Contacts:
-### :email: sonyamitrofanova3262@gmail.com
-#### :calling: [Telegram](https://t.me/sofya_Mitrofanova)
 ### :mag: [VK](vk.com/sonkavottakay)
+### :calling: [Telegram](https://t.me/sofya_Mitrofanova)
+### :email: sonyamitrofanova3262@gmail.com
 
 #### :blossom: I am always ready for new collaborations :blossom:
