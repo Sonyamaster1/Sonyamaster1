@@ -1,22 +1,19 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
-  <div id="badges">
-  <a href="https://t.me/sofya_Mitrofanova">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="tg Badge"/>
-  </a>
-  <a href="Я ВКонтакте: vk.com/sonkavottakay">
-    <img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge" alt="вк Badge"/>
-  </a>
-</div>
-</div>
- :woman_technologist: About Me :
- <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"width="600" height="300"> I am a Java Script Developer  from Russia. 
+# Hi, I'm Sonya and I'm Web developer from Russia :smiley: ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+## About me: I'm student of [Yandex.Practicum](https://practicum.yandex.ru/web/) :computer:
 
-### :hammer_and_wrench: Languages and Tools 
-<div>
-<img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' title='CCS' width="40" height="40"/>&nbsp;
-<img src='https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg' title='Figma'width="40" height="40"/>&nbsp;
-<img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' title='GIT'width="40" height="40"/>&nbsp;
-<img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' title='HTML'width="40" height="40"/>&nbsp;
-<img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' title='Java Script'width="40" height="40"/>&nbsp;
-</div>
+### :heavy_check_mark: It is my level of knowledge
+[![codewars](https://www.codewars.com/users/Sonyamaster1/badges/large)](https://www.codewars.com/users/Sonyamaster1)
+
+# My Steck:
+#### :link: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) Git
+#### :link: ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) CSS
+#### :link: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) React
+#### :link: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) HTML5
+#### :link: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) JavaScript
+
+# Contacts:
+### :email: sonyamitrofanova3262@gmail.com
+#### :calling: [Telegram](https://t.me/sofya_Mitrofanova)
+### :mag: [VK](vk.com/sonkavottakay)
+
+#### :blossom: I am always ready for new collaborations :blossom:
