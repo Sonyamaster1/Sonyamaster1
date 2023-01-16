@@ -25,6 +25,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sonyamaster1&theme=dark)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonyamaster1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonyamaster1&layout=compact&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonyamaster1)](https://github.com/anuraghazra/github-readme-stats)
