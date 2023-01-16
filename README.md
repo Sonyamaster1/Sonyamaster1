@@ -1,4 +1,4 @@
-# Привет, я Софья, веб разработчик, дала видеть тебя в моем GitHub:smiley: ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Привет, я Софья, веб разработчик, рада видеть тебя в моем GitHub:smiley:
 ## Студент [Yandex.Practicum](https://practicum.yandex.ru/web/) :computer:
 
 ### :heavy_check_mark: It is my level of knowledge
@@ -20,8 +20,11 @@
 ![Jest](https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=Jest)
 
 # Контакты:
-### :mag: [VK](vk.com/sonkavottakay)
-### :calling: [Telegram](https://t.me/sofya_Mitrofanova)
-### :email: sonyamitrofanova3262@gmail.com
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/sofya_Mitrofanova)
+[![ВKontakte](https://img.shields.io/badge/-Вконтакте-090909?style=for-the-badge&logo=VK)](https://vk.com/sofyamitrofanova)
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonyamaster1&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-#### :blossom: I am always ready for new collaborations :blossom:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonyamaster1&layout=compact&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
