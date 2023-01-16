@@ -22,8 +22,8 @@
 # Контакты:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/sofya_Mitrofanova)
 [![ВKontakte](https://img.shields.io/badge/-Вконтакте-090909?style=for-the-badge&logo=VK)](https://vk.com/sofyamitrofanova)
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonyamaster1&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sonyamaster1&theme=dark)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonyamaster1&layout=compact&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
