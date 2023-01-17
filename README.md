@@ -19,6 +19,10 @@
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![Jest](https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=Jest)
 
+## Иностранные языки:
+- Английский (A2) :uk:
+- Немецкий (A2) :de:
+
 # Контакты:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/sofya_Mitrofanova)
 [![ВKontakte](https://img.shields.io/badge/-Вконтакте-090909?style=for-the-badge&logo=VK)](https://vk.com/sofyamitrofanova)
