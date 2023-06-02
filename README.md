@@ -1,5 +1,5 @@
 # Привет, я Софья, веб разработчик, рада видеть тебя в моем GitHub:smiley:
-## Студент [Yandex.Practicum](https://practicum.yandex.ru/web/) :computer:
+## Окончила [Yandex.Practicum](https://practicum.yandex.ru/web/) :computer:
 
 ### :heavy_check_mark: It is my level of knowledge
 [![codewars](https://www.codewars.com/users/Sonyamaster1/badges/large)](https://www.codewars.com/users/Sonyamaster1)
