@@ -7,7 +7,7 @@
 # Мой стек технологий:
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=TypeScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
